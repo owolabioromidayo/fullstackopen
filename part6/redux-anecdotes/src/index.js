@@ -8,7 +8,7 @@ import App from './App'
 import store from './store'
 
 console.log(store)
-
+  
 ReactDOM.render(
   <Provider store={store}>
     <App />
